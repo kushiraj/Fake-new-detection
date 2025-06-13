@@ -82,11 +82,10 @@ Results
 Summarize the performance of different models on the test dataset. Include a table or a brief description of the key findings. For example:
 
 ```markdown
-| Model | Accuracy | Precision | Recall | F1-Score |
-|---|---|---|---|---|
-| Logistic Regression | 0.85 | 0.82 | 0.88 | 0.85 |
-| LSTM | 0.90 | 0.89 | 0.91 | 0.90 |
-| BERT | 0.95 | 0.94 | 0.96 | 0.95 |
+Model	              Accuracy
+Logistic Regression	  99.01%
+Decision Tree	      99.59%
+Random Forest	      99.23%
 ```
 Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
@@ -97,4 +96,6 @@ Make your changes and commit them: git commit -am 'Add some feature'
 Push to the branch: git push origin feature/your-feature
 Submit a pull request.
 License
-MIT License (or specify the license you are using)
+MIT License
+
+
