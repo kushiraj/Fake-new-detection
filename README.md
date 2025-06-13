@@ -81,11 +81,13 @@ Analyze the results and compare the performance of different models.
 Results
 Summarize the performance of different models on the test dataset. Include a table or a brief description of the key findings. For example:
 
-Table
-Model	              Accuracy	Precision	Recall	F1-Score
-Logistic Regression	0.85	    0.82	    0.88	  0.85
-LSTM              	0.90	    0.89	    0.91	  0.90
-BERT	              0.95	    0.94	    0.96	  0.95
+```markdown
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---|---|---|---|---|
+| Logistic Regression | 0.85 | 0.82 | 0.88 | 0.85 |
+| LSTM | 0.90 | 0.89 | 0.91 | 0.90 |
+| BERT | 0.95 | 0.94 | 0.96 | 0.95 |
+```
 Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
